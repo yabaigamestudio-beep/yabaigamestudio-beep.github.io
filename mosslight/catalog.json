@@ -1,0 +1,59 @@
+{
+  "status": "Draft copy only; not uploaded. Prices come from Google Play. Native-language editorial review remains recommended.",
+  "locales": [
+    {
+      "locale": "zh-TW",
+      "title": "苔光方塊",
+      "shortDescription": "放下方塊，澆水開花。免費遊玩，慢慢收藏你的花園。",
+      "description": "在 8×8 棋盤放置方塊，填滿橫排或直排，為植物澆水並開花。體驗花園委託、每日 30 步挑戰，以及隨進度解鎖的種子與介面外觀。\n\n遊戲免費，含廣告。可自選觀看廣告獲得每局一次的選區整理，或在合格對局後領取每日有限次數的收藏加成。唯一付費商品為一次買斷永久無廣告；相同條件與次數限制的獎勵可直接取得。\n\n一般對局可離線遊玩，進度儲存在裝置。廣告、購買與恢復購買需連線。"
+    },
+    {
+      "locale": "en-US",
+      "title": "Mosslight Blocks",
+      "shortDescription": "Place blocks, water plants and grow a garden. Play free at your own pace.",
+      "description": "Place blocks on an 8×8 board. Complete rows or columns to water plants and help flowers bloom. Discover garden commissions, a daily 30-move challenge, and seeds and UI themes unlocked through play.\n\nFree to play with ads. Choose a rewarded ad for one area rescue per classic run, or a limited daily collection bonus after an eligible run. The only purchase is permanent ad removal: receive those same eligible rewards directly, with the same limits.\n\nRegular play works offline and progress is stored on your device. Ads, purchases and purchase restoration require a connection."
+    },
+    {
+      "locale": "ja-JP",
+      "title": "苔光ブロック",
+      "shortDescription": "ブロックを置き、水をやり、花を咲かせよう。無料で自分のペースで楽しむ花園。",
+      "description": "8×8の盤面にブロックを置き、縦や横の列を埋めて植物に水をやり、花を咲かせましょう。花園の依頼や毎日30手のチャレンジを楽しみ、プレイの進度で種や画面テーマを解放できます。\n\n広告を含む無料ゲームです。自分で広告視聴を選ぶと、クラシック対局で1回のエリア整理、または条件を満たした対局後に1日の回数制限付きコレクションボーナスを獲得できます。唯一の購入商品は永久広告削除。同じ条件と回数制限で報酬を直接受け取れます。\n\n通常プレイはオフライン対応。進度は端末に保存します。広告、購入、購入復元には接続が必要です。"
+    },
+    {
+      "locale": "ko-KR",
+      "title": "이끼빛 블록",
+      "shortDescription": "블록을 놓고 물을 주며 꽃을 피워 보세요. 나만의 속도로 즐기는 무료 정원 퍼즐.",
+      "description": "8×8 보드에 블록을 놓으세요. 가로나 세로줄을 채워 식물에 물을 주고 꽃을 피울 수 있어요. 정원 의뢰와 하루 30수 도전을 즐기며 플레이로 씨앗과 화면 테마를 해금하세요.\n\n광고가 포함된 무료 게임입니다. 보상형 광고를 선택하면 클래식 매 판 구역 정리 1회, 또는 조건을 충족한 판 뒤에 횟수가 제한된 일일 수집 보너스를 받을 수 있어요. 유일한 구매 상품은 영구 광고 제거이며 같은 조건과 횟수로 보상을 바로 받습니다.\n\n일반 플레이는 오프라인으로 가능하며 진행도는 기기에 저장됩니다. 광고, 구매, 구매 복원에는 연결이 필요합니다."
+    },
+    {
+      "locale": "id",
+      "title": "Blok Mosslight",
+      "shortDescription": "Letakkan blok, sirami tanaman, dan tumbuhkan taman. Main gratis sesukamu.",
+      "description": "Letakkan blok di papan 8×8. Penuhi baris atau kolom untuk menyiram tanaman dan memekarkan bunga. Nikmati misi taman, tantangan harian 30 langkah, serta benih dan tema UI yang terbuka lewat bermain.\n\nGratis dengan iklan. Pilih iklan berhadiah untuk satu penyelamatan area per ronde klasik, atau bonus koleksi harian terbatas setelah ronde yang memenuhi syarat. Satu-satunya pembelian adalah penghapusan iklan permanen, dengan hadiah langsung pada syarat dan batas yang sama.\n\nPermainan biasa tersedia offline, progres tersimpan di perangkat. Iklan, pembelian dan pemulihan pembelian membutuhkan koneksi."
+    },
+    {
+      "locale": "th",
+      "title": "บล็อกมอสไลต์",
+      "shortDescription": "วางบล็อก รดน้ำ และปลูกสวนดอกไม้ เล่นฟรีตามจังหวะของคุณ",
+      "description": "วางบล็อกบนกระดาน 8×8 เติมแถวหรือคอลัมน์ให้เต็มเพื่อรดน้ำต้นไม้และให้ดอกบาน สนุกกับภารกิจสวน ท้าทายรายวัน 30 ตา และปลดล็อกเมล็ดกับธีมหน้าจอด้วยการเล่น\n\nเกมฟรีพร้อมโฆษณา เลือกดูโฆษณาเพื่อจัดพื้นที่หนึ่งครั้งต่อรอบคลาสสิก หรือรับโบนัสคอลเลกชันรายวันที่จำกัดจำนวนหลังจบรอบที่ครบเงื่อนไข สินค้าที่ซื้อได้มีเพียงสิทธิ์ไร้โฆษณาถาวร รับรางวัลได้ทันทีภายใต้เงื่อนไขและจำนวนเท่าเดิม\n\nเล่นปกติแบบออฟไลน์ได้ ความคืบหน้าเก็บในอุปกรณ์ โฆษณา การซื้อ และกู้คืนการซื้อต้องเชื่อมต่อ"
+    },
+    {
+      "locale": "vi",
+      "title": "Khối Mosslight",
+      "shortDescription": "Đặt khối, tưới cây và trồng vườn hoa. Chơi miễn phí theo nhịp của bạn.",
+      "description": "Đặt khối trên bàn 8×8. Lấp đầy hàng hoặc cột để tưới cây và giúp hoa nở. Khám phá nhiệm vụ vườn, thử thách 30 lượt mỗi ngày, cùng hạt và chủ đề mở khóa qua việc chơi.\n\nGame miễn phí có quảng cáo. Tự chọn xem quảng cáo để dọn vùng một lần mỗi ván cổ điển, hoặc nhận thưởng bộ sưu tập hằng ngày có giới hạn sau ván đủ điều kiện. Giao dịch duy nhất là bỏ quảng cáo vĩnh viễn; nhận trực tiếp các thưởng đó với cùng điều kiện và giới hạn.\n\nChơi thông thường không cần mạng, tiến độ lưu trên thiết bị. Quảng cáo, giao dịch và khôi phục giao dịch cần kết nối."
+    },
+    {
+      "locale": "ms",
+      "title": "Blok Mosslight",
+      "shortDescription": "Letak blok, siram tanaman dan tumbuhkan taman. Main percuma ikut rentak anda.",
+      "description": "Letak blok pada papan 8×8. Penuhi baris atau lajur untuk menyiram tanaman dan memekarkan bunga. Nikmati misi taman, cabaran harian 30 langkah, serta benih dan tema UI yang dibuka melalui bermain.\n\nPercuma dengan iklan. Pilih iklan berhadiah untuk satu bantuan kawasan setiap pusingan klasik, atau bonus koleksi harian terhad selepas pusingan yang layak. Satu-satunya pembelian ialah pembuangan iklan kekal, dengan ganjaran terus pada syarat dan had yang sama.\n\nPermainan biasa tersedia di luar talian, kemajuan disimpan pada peranti. Iklan, pembelian dan pemulihan pembelian memerlukan sambungan."
+    },
+    {
+      "locale": "fil",
+      "title": "Mosslight Blocks",
+      "shortDescription": "Maglagay ng bloke, magdilig at magpalago ng hardin. Libreng laro sa iyong ritmo.",
+      "description": "Maglagay ng bloke sa 8×8 na board. Punuin ang hanay o kolum para diligan ang halaman at pamulaklakin ito. Subukan ang mga gawain sa hardin, arawang hamon na 30 galaw, at mga binhi at temang nabubuksan sa paglalaro.\n\nLibreng laro na may ad. Piliing manood para sa isang pagsagip ng lugar bawat klasikong laro, o limitadong arawang bonus sa koleksiyon matapos ang kuwalipikadong laro. Ang tanging binibili ay permanenteng pag-alis ng ad: direktang kunin ang parehong gantimpala sa parehong kondisyon at limitasyon.\n\nPuwedeng offline ang karaniwang laro. Nasa device ang progreso. Kailangan ng koneksiyon para sa ad, pagbili at pagbabalik ng binili."
+    }
+  ]
+}
